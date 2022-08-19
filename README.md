@@ -1,2 +1,2 @@
 # Data-Analysis-Project
-hello homosepiens, this repository data analysis project I worked on.
+It's just a data analysis project
